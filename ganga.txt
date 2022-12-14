@@ -1,0 +1,1 @@
+echo "simhadrinada is a powerful god"
