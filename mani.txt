@@ -1,1 +1,2 @@
 checking stashing pop
+pop is a stashing command
