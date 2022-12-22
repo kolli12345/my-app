@@ -1,2 +1,3 @@
 checking stashing pop
 pop is a stashing command
+all are equal
